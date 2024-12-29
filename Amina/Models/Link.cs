@@ -2,10 +2,18 @@
 
 public class Link
 {
-    private int link_id;
+    public int LinkId;
+    public int Test;
 
-    public Link(int linkId)
+    public int Test1
     {
-        link_id = linkId;
+        get => Test;
+        set => Test = value;
+    }
+
+    public int Test2(Link link)
+    {
+        Test = link.Test;
+        return 0; 
     }
 }
