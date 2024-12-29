@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Amina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19c8cf9dd4b5d4827c7e3bad5ab066e61239d05c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Amina")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Amina")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
