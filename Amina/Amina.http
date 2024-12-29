@@ -1,0 +1,6 @@
+@Amina_HostAddress = http://localhost:5007
+
+GET {{Amina_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
